@@ -6,14 +6,16 @@ body {
 	background: gray;
 }
 
-h1 {
+#head {
+
 	background: blue;
+	
 	color: white;
+	text-align: center;
+
 	border: dashed 5px white;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	text-align: center;
+
 }
-
-
 
