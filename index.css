@@ -2,6 +2,9 @@
 	font-family: 'Helvetica', sans-serif;
 }
 
+body {
+	background: gray;
+}
 
 h1 {
 	background: blue;
@@ -9,6 +12,7 @@ h1 {
 	border: dashed 5px white;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	text-align: center;
 }
 
 
