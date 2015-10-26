@@ -9,13 +9,22 @@ body {
 #head {
 
 	background: blue;
-	
+
 	color: white;
 	text-align: center;
 
 	border: dashed 5px white;
+	border-radius: 20px;
+
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 25px;
+
 	padding-top: 10px;
 	padding-bottom: 10px;
 
+
 }
+
+
 
